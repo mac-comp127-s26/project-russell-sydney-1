@@ -7,7 +7,7 @@
 A copy of the mobile game Doodle Jump, a platformer that was released in 2009 on iOS.
 
 ## Screenshot of original game
-![Doodle Jump](/doodle_jump.png "Doodle Jump")
+![A screenshot of the mobile game Doodle Jump](/doodle_jump.png "Doodle Jump")
 
 ## But Why?
 I'm choosing this because it's a game I grew up playing and I think it would be fun to recreate it. Also, it is an achievable amount of work. It requires not too much to become functional while still having plenty to do if time allows, such as jet packs or additional enemies.
